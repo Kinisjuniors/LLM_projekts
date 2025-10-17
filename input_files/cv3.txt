@@ -1,0 +1,15 @@
+Kandidāts: Mārtiņš Bērziņš
+
+Izglītība:
+Rīgas Tehniskā universitāte, Datorzinātne (2020–2024)
+Bakalaura darbs par Python datu analīzes risinājumiem.
+
+Pieredze:
+- Universitātes projekti ar Flask un SQLite
+- Veidoju mazas tīmekļa lietotnes un datu analīzes skriptus
+- Prakses laikā palīdzēju komandai veidot API dokumentāciju
+
+Papildu prasmes:
+- Python, SQL, HTML/CSS
+- Laba motivācija un vēlme mācīties jaunas tehnoloģijas
+- Nav vēl pieredzes ar Docker un CI/CD

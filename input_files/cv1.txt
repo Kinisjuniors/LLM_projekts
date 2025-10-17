@@ -1,0 +1,13 @@
+Kandidāts: Jānis Ozoliņš
+
+Pieredze:
+Python izstrādātājs uzņēmumā DataLabs (2021–2024)
+- Izstrādāju REST API ar Flask un FastAPI
+- Strādāju ar PostgreSQL un MySQL datubāzēm
+- Automatizēju datu apstrādes procesus (Pandas, NumPy)
+- Lietoju Git un Docker komandas darbam
+
+Papildu prasmes:
+- Pieredze ar CI/CD (GitHub Actions)
+- Laba komandas sadarbība
+- Interese par mašīnmācīšanos

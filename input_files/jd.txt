@@ -1,0 +1,14 @@
+Darba apraksts: Python izstrādātājs
+
+Meklējam Python izstrādātāju ar pieredzi tīmekļa lietotņu un datu apstrādes risinājumu izstrādē.
+Galvenie pienākumi:
+- API un backend funkcionalitātes izstrāde (Flask vai FastAPI)
+- Datu apstrāde un integrācija ar SQL datubāzēm
+- Sadarbība ar frontend izstrādātājiem un projektu vadītājiem
+- Koda versēšana ar Git
+
+Prasības:
+- Vismaz 2 gadu pieredze Python izstrādē
+- Zināšanas par REST API, Git un SQL
+- Vēlams pieredze ar Docker un CI/CD
+- Spēja strādāt komandā un komunicēt ar kolēģiem

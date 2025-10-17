@@ -1,0 +1,13 @@
+Kandidāte: Līga Kalniņa
+
+Pieredze:
+DevOps un sistēmu administrators (2020–2024)
+- Darbs ar Docker, Jenkins un CI/CD cauruļvadiem
+- Python izmantoju skriptu automatizācijai
+- Uzturēju Linux serverus un uzraudzības risinājumus
+- Pieredze ar Git un Bash skriptiem
+
+Papildu prasmes:
+- AWS un Kubernetes pamatzināšanas
+- Komandas darba pieredze IT infrastruktūras projektos
+- Interese par backend izstrādi
